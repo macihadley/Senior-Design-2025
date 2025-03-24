@@ -1,3 +1,4 @@
+import React from "react";
 import "./App.css";
 import ExpandButton from "./components/ExpandButton.jsx";
 import sections from "./data.js";
